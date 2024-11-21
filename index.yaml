@@ -3,12 +3,12 @@ entries:
   patch:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-21T12:44:11.953491-07:00"
+    created: "2024-11-21T12:53:10.795825-07:00"
     description: A Helm chart for Kubernetes
-    digest: c0d9bcc049490865aded1cb23997aee8aedb517f85c473b3d43e4733f61da2bf
+    digest: 2b9f8e0aeefaf6298c2b7999d3fe33b83a3fddaa88c68ff0d731dd7121544949
     name: patch
     type: application
     urls:
     - patch-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-21T12:44:11.952372-07:00"
+generated: "2024-11-21T12:53:10.795446-07:00"
